@@ -1,0 +1,7 @@
+C:\CA SWs\personel\samples\PatternMatching\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\CA SWs\personel\samples\PatternMatching\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\CA SWs\personel\samples\PatternMatching\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\CA SWs\personel\samples\PatternMatching\ConsoleApp1\obj\Debug\PatternMatching.csprojAssemblyReference.cache
+C:\CA SWs\personel\samples\PatternMatching\ConsoleApp1\obj\Debug\PatternMatching.csproj.CoreCompileInputs.cache
+C:\CA SWs\personel\samples\PatternMatching\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\CA SWs\personel\samples\PatternMatching\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
